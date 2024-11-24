@@ -1,0 +1,9 @@
+<resources>
+    <color name="orange">#FFA500</color> <!-- Example orange -->
+    <color name="dark_orange">#FF8C00</color> <!-- Darker shade of orange -->
+    <color name="black">#000000</color> <!-- Black -->
+    <color name="dark_gray">#A9A9A9</color> <!-- Dark gray -->
+    <color name="white">#FFFFFF</color> <!-- White -->
+    <color name="red">#FF0000</color>
+    <color name="green">#74D93E</color>
+</resources>
